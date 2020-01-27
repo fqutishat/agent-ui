@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/release/hyperledger/aries-framework-go.svg?style=flat-square)](https://github.com/trustbloc/agent-ui/releases/latest)
+[![Release](https://img.shields.io/github/release/trustbloc/agent-ui.svg?style=flat-square)](https://github.com/trustbloc/agent-ui/releases/latest)
 [![Build Status](https://dev.azure.com/trustbloc/edge/_apis/build/status/trustbloc.agent-ui?branchName=master)](https://dev.azure.com/trustbloc/edge/_build/latest?definitionId=32&branchName=master)
 
 # agent-ui
